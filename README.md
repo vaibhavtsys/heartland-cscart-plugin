@@ -1,4 +1,3 @@
-# **This repository is no longer maintained.**
 # Heartland SecureSubmit Plugin for CS Cart 4.3.4+
 
 This plugin makes it easy to start taking payments with CS Cart 4.3.4+
